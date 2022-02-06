@@ -1,0 +1,79 @@
+body
+{
+    background-color: #F3C5C5;
+    color: #886F6F;
+}
+
+p
+{
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+}
+
+a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: chocolate;
+}
+
+main
+{
+    text-align: center;
+}
+
+.enstrument-genre 
+/* homepage enstrument genre */
+{
+    width: 170px;
+    height: 170px;
+    border: 1;
+    border-radius: 5em;
+}
+
+.products-guitar-image
+{
+    width: 450px;
+    height: 150px; 
+}
+
+.products-drum-image
+{
+    width: 450px;
+    height: 400px;
+}
+
+.products-piano-image
+{
+    width: 450px;
+    height: 300px; 
+}
+
+.products-violin-image
+{
+    width: 300px;
+    height: 300px;  
+}
+
+.menuler
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 450px;
+    margin-right: 450px;      
+}
+.baslik
+{
+    text-align: center;
+    color: #694E4E;
+    padding-left: 20px;
+}
+.enstrument
+{
+    list-style: none;
+    text-align: center;
+    padding-right: 15px;
+    font-weight: bold;
+    font-size: large;
+}
