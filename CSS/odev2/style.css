@@ -1,0 +1,61 @@
+  #google
+  {
+    display: block;
+    margin: auto;     
+  }
+
+  .text
+  {
+    text-align: center;
+    padding-top: 5px;
+  }
+    
+  #search-box 
+  {
+    display: block;
+    margin: -15px auto 5px auto;
+    width: 300px;
+  }
+
+  .main
+  {
+    background-color: #eeeeee;
+    width: 1362px;
+    height: 82px;
+    display: block;
+    margin: auto;
+  }
+ 
+  .left-box 
+  {
+    background-color: #7ee5da;
+    width: 550px;
+    height: 85px;
+    float: left;
+    margin-top: -8px; 
+  }
+  .center-box 
+  {
+    background-color: #70ccc2;
+    height: 85px;
+    width: 220px;
+    float: left;
+    margin-top: -8px;
+    margin-left: 2px;
+  }
+  .right-box 
+  {
+    background-color: rgb(98, 179, 170);
+    height: 85px;
+    width: 586px;
+    float: left;
+    margin-top: -8px;
+    margin-left: 2px;
+  }
+
+  .center-text 
+  {
+    margin-top: 9px;
+    font-size: 14px;
+  }
+  
